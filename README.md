@@ -15,7 +15,7 @@ detect collisions and near misses between birds and aircraft.
 Installation and user guides are accessible at:
 https://github.com/ProfHoekstra/bluesky/wiki
 
-##Some features of BlueSky:
+## Some features of BlueSky:
 - Written in the freely available, ultra-simple-hence-easy-to-learn, multi-platform language 
 Python 2.x (using numpy and either pygame or Qt+OpenGL for visualisation) with source
 - Contains open source data on navaids, performance data of aircraft and geography
